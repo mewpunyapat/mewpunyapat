@@ -20,12 +20,8 @@ Quantitative analysis, predictive modeling
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mewpunyapat&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewpunyapat&layout=compact&theme=dark" alt="Top Languages" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mewpunyapat&theme=dark" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mewpunyapat&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewpunyapat&layout=compact&theme=rose_pine" alt="Top Languages" width="350"/>
 </p>
 
 ---
